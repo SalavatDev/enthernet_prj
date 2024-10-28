@@ -1,0 +1,47 @@
+G:\shbashka\enthernet_prj\EWARM\enthernet_prj\BrowseInfo\Middlewares\LwIP\ipcp.pbi: \
+  G:\shbashka\enthernet_prj\Middlewares\Third_Party\LwIP\src\netif\ppp\ipcp.c \
+  G:\shbashka\enthernet_prj\EWARM\..\Middlewares\Third_Party\LwIP\src\include\netif\ppp\ppp_opts.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Middlewares\Third_Party\LwIP\src\include\lwip\opt.h \
+  G:\shbashka\enthernet_prj\EWARM\..\LWIP\Target\lwipopts.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Core\Inc\main.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Core\Inc\stm32f4xx_hal_conf.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Include\core_cm4.h \
+  F:\IARInstall\arm\inc\c\stdint.h F:\IARInstall\arm\inc\c\ycheck.h \
+  F:\IARInstall\arm\inc\c\yvals.h \
+  F:\IARInstall\arm\inc\c\DLib_Defaults.h \
+  F:\IARInstall\arm\inc\c\DLib_Config_Full.h \
+  F:\IARInstall\arm\inc\c\DLib_Product.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  F:\IARInstall\arm\inc\c\aarch32\iccarm_builtin.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  F:\IARInstall\arm\inc\c\stddef.h F:\IARInstall\arm\inc\c\ysizet.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_exti.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma_ex.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_eth.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Middlewares\Third_Party\LwIP\src\include\lwip\debug.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Middlewares\Third_Party\LwIP\src\include\lwip\arch.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Middlewares\Third_Party\LwIP\system\arch\cc.h \
+  G:\shbashka\enthernet_prj\EWARM\..\Middlewares\Third_Party\LwIP\system\arch\cpu.h \
+  F:\IARInstall\arm\inc\c\stdlib.h \
+  F:\IARInstall\arm\inc\c\DLib_Product_stdlib.h \
+  F:\IARInstall\arm\inc\c\stdio.h F:\IARInstall\arm\inc\c\inttypes.h \
+  F:\IARInstall\arm\inc\c\limits.h F:\IARInstall\arm\inc\c\ctype.h
